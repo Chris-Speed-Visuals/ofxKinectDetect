@@ -1,0 +1,4 @@
+ofxKinect
+ofxKinectDetect
+ofxOpenCv
+ofxRapidLib
